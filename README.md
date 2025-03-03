@@ -1,4 +1,3 @@
-```md
 # 🚚 Freight Management System  
 
 A **Streamlit-based Freight & Charge Management System** for handling **Sales Estimates, Charge Sheets, and Electronic Approvals**.
