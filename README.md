@@ -17,7 +17,7 @@ A **Streamlit-based Freight & Charge Management System** for handling **Sales Es
 ## 📦 Installation & Setup  
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/YOUR-GITHUB-USERNAME/Freight-Management-System.git
+git clone https://github.com/mkmagaya/Freight-Management-System.git
 cd Freight-Management-System
 ```
 
