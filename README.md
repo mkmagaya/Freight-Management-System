@@ -71,4 +71,3 @@ streamlit run app.py
 - ✅ Advanced Reporting Dashboard  
 
 🚀 **Let's streamline freight management together!** 🚀  
-```
